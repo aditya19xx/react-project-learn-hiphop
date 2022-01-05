@@ -1,0 +1,24 @@
+.single-cart{
+    background-color: rgba(188, 234, 240, 0.055);
+    
+}
+
+.service-cart img{
+width: 100%;
+}
+.buy-this-course{
+    width: 100%;
+    
+    border: 1px solid ;
+    border-radius: 5px;
+    background-color: blanchedalmond;
+}
+.buy-this-course:hover{
+    background-color: darkgoldenrod;
+    font-weight: 600;
+    font-size: 1.1em;
+    color: white;
+    transition: 0.5s ease;
+}
+
+

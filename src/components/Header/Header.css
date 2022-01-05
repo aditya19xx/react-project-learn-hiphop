@@ -1,0 +1,33 @@
+.header{
+    background-color: rgb(173, 211, 211);
+    display: flex;
+    
+}
+
+.title{
+    color: black;
+    margin-left: 10px;
+}
+.title-span{
+    color: red;
+    font-size: 1.3em;
+}
+.nav-bar{
+    margin: 10px;
+    padding: 10px;
+    margin-left: 200px;
+    
+}
+.nav-bar button{
+    margin-left: 20px;
+    border: 1px solid ;
+    border-radius: 5px;
+    background-color: blanchedalmond;
+}
+.nav-bar button:hover{
+    background-color: darkgoldenrod;
+    font-weight: 600;
+    font-size: 1.1em;
+    color: white;
+    transition: 0.5s ease;
+}
